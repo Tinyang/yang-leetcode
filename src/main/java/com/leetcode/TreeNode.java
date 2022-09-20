@@ -51,7 +51,7 @@ public class TreeNode {
 
     public static void main(String[] args) {
         //Node node = generateRootNodeByArray(new Integer[]{1,2,3,null,4,5,6});
-        TreeNode node = generateRootNodeByArray(new Integer[]{1,2,3,null,null,5,6});
+        TreeNode node = generateRootNodeByArray(new Integer[]{1,2,3,null,null,4,null,5,6});
         //Node node = generateRootNodeByArray(new Integer[]{1,2,3,null,4,5,6});
     }
 }
